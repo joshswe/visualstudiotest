@@ -5,3 +5,5 @@ This is used for testing Git in VS Code
 This is a testing text
 - Text1
 - Text2
+
+## Testing the new branch 1
