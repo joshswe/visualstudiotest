@@ -7,3 +7,7 @@ This is a testing text
 - Text2
 
 ## Testing the new branch 1
+
+## Testing branch 1 with this new text (8/20)
+- Text
+- Text
